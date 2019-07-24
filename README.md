@@ -24,8 +24,8 @@ Those programs are:
 
 ### CPU widget (support for 8 core/threads CPUs):
 
-![CPU](https://raw.githubusercontent.com/Mazeby/FluentDash/master/Example%20Images/altered-cpu.PNG "CPU widget")
+![CPU](https://raw.githubusercontent.com/omurovec/FluentDash/master/Example%20Images/altered-cpu.PNG "CPU widget")
 
 ### RAM widget:
 
-![RAM](https://raw.githubusercontent.com/Mazeby/FluentDash/master/Example%20Images/altered-ram.PNG "RAM widget")
+![RAM](https://raw.githubusercontent.com/omurovec/FluentDash/master/Example%20Images/altered-ram.PNG "RAM widget")
